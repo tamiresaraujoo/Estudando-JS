@@ -1,1 +1,1 @@
-alert ("Executando Js")
+alert("Excutando JS no Navegador com arquivo externo")
